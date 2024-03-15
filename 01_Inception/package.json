@@ -1,0 +1,20 @@
+{
+  "name": "01_inception",
+  "version": "1.0.0",
+  "description": "this is Nameste React by Akasay Saini",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "nameste",
+    "react"
+  ],
+  "author": "biswajit dey",
+  
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

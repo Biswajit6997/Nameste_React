@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* background-color: rgb(82, 216, 29); */
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border: 1px solid black;
+}
+.logo {
+  width: 100px;
+}
+.header {
+  margin-top: 10px;
+}
+.nav-items ul {
+  font-size: 18px;
+  display: flex;
+  /* gap: 30px; */
+  padding: 4px 33px;
+  list-style-type: none;
+}
+.nav-items ul li {
+  padding: 10px;
+  margin: 10px;
+}
+/* Resturent Card */
+.res-card {
+  padding: 5px;
+  width: 200px;
+  /* height: 350px; */
+  background-color: rgb(231, 215, 215);
+}
+.res-card:hover {
+  border: 1px solid black;
+  cursor: pointer;
+}
+.res-container{
+    justify-content: flex-start;
+    gap: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    /* gap: 16px; */
+    margin: 6px;
+    padding: 6px;
+}
+
+
+
+
+.search {
+  padding: 10px;
+}
+.res-logo {
+  width: 100%;
+  /* padding: 14px; */
+}
